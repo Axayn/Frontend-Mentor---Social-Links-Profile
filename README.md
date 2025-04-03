@@ -14,7 +14,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Live Site URL: [frontend-mentor-social-links-profile](https://frontend-mentor-blog-preview-card-0.netlify.app/)
+- Live Site URL: [frontend-mentor-social-links-profile](https://frontend-mentor-social-links-profile0.netlify.app/)
 
 ## My process
 
