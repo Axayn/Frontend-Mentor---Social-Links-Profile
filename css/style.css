@@ -37,8 +37,10 @@
 }
 
 .social-links-profile__location {
-  font-size: 1.5rem;
-  font-weight: 600;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0;
   color: var(--color-primary);
 }
 
