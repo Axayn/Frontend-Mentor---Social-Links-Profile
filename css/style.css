@@ -30,7 +30,7 @@
 
 .social-links-profile__name {
   font-size: 2.4rem;
-  font-weight: 600;
+  font-weight: 800;
   line-height: 1.5;
   letter-spacing: 0;
   color: var(--color-secondary);
@@ -38,7 +38,7 @@
 
 .social-links-profile__location {
   font-size: 1.4rem;
-  font-weight: 700;
+  font-weight: 600;
   line-height: 1.5;
   letter-spacing: 0;
   color: var(--color-primary);
